@@ -1,0 +1,1 @@
+web: gunicorn Electronic_E_Commerce.wsgi -b 0.0.0.0:$PORT
